@@ -44,7 +44,13 @@
             (framework:syntax-color:scheme:parenthesis
              ,red)
             (framework:syntax-color:scheme:symbol
-             ,base00))))
+             ,base00)
+            (drracket:real-eval-print-loop:error-color
+             ,orange)
+            (drracket:real-eval-print-loop:out-color
+             ,violet)
+            (drracket:real-eval-print-loop:value-color
+             ,blue))))
     #hash((name . "Solarized Dark")
           (colors
            .
@@ -71,5 +77,11 @@
             (framework:syntax-color:scheme:parenthesis
              ,red)
             (framework:syntax-color:scheme:symbol
-             ,base00))))))
+             ,base00)
+            (drracket:real-eval-print-loop:error-color
+             ,orange)
+            (drracket:real-eval-print-loop:out-color
+             ,violet)
+            (drracket:real-eval-print-loop:value-color
+             ,blue))))))
 
