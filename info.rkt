@@ -50,7 +50,25 @@
             (drracket:real-eval-print-loop:out-color
              ,violet)
             (drracket:real-eval-print-loop:value-color
-             ,blue))))
+             ,blue)
+            (drracket:check-syntax:both-obligation-style-pref
+             ,green)
+            (drracket:check-syntax:free-variable
+             ,red)
+            (drracket:check-syntax:imported
+             ,violet)
+            (drracket:check-syntax:lexically-bound
+             ,blue)
+            (drracket:check-syntax:my-obligation-style-pref
+             ,orange)
+            (drracket:check-syntax:set!d
+             ,orange)
+            (drracket:check-syntax:their-obligation-style-pref
+             ,cyan)
+            (drracket:check-syntax:unk-obligation-style-pref
+             ,base01)
+            (drracket:check-syntax:unused-require
+             ,red))))
     #hash((name . "Solarized Dark")
           (colors
            .
@@ -83,5 +101,23 @@
             (drracket:real-eval-print-loop:out-color
              ,violet)
             (drracket:real-eval-print-loop:value-color
-             ,blue))))))
+             ,blue)
+            (drracket:check-syntax:both-obligation-style-pref
+             ,green)
+            (drracket:check-syntax:free-variable
+             ,red)
+            (drracket:check-syntax:imported
+             ,violet)
+            (drracket:check-syntax:lexically-bound
+             ,blue)
+            (drracket:check-syntax:my-obligation-style-pref
+             ,orange)
+            (drracket:check-syntax:set!d
+             ,orange)
+            (drracket:check-syntax:their-obligation-style-pref
+             ,cyan)
+            (drracket:check-syntax:unk-obligation-style-pref
+             ,base1)
+            (drracket:check-syntax:unused-require
+             ,red))))))
 
