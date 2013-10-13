@@ -70,6 +70,7 @@
             (drracket:check-syntax:unused-require
              ,red))))
     #hash((name . "Solarized Dark")
+          (white-on-black-base? . #t)
           (colors
            .
            ((framework:basic-canvas-background
