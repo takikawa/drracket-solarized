@@ -40,7 +40,7 @@
             (framework:syntax-color:scheme:string
              ,cyan)
             (framework:syntax-color:scheme:other
-             ,orange)
+             ,blue)
             (framework:syntax-color:scheme:parenthesis
              ,base01)
             (framework:syntax-color:scheme:symbol
@@ -92,7 +92,7 @@
             (framework:syntax-color:scheme:string
              ,cyan)
             (framework:syntax-color:scheme:other
-             ,orange)
+             ,blue)
             (framework:syntax-color:scheme:parenthesis
              ,base1)
             (framework:syntax-color:scheme:symbol
