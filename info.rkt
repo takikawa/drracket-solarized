@@ -32,7 +32,7 @@
             (framework:syntax-color:scheme:constant
              ,cyan)
             (framework:syntax-color:scheme:error
-             ,orange)
+             ,red)
             (framework:syntax-color:scheme:hash-colon-keyword
              ,yellow)
             (framework:syntax-color:scheme:keyword
@@ -40,13 +40,13 @@
             (framework:syntax-color:scheme:string
              ,cyan)
             (framework:syntax-color:scheme:other
-             ,base01)
+             ,orange)
             (framework:syntax-color:scheme:parenthesis
-             ,red)
+             ,base01)
             (framework:syntax-color:scheme:symbol
              ,base00)
             (drracket:real-eval-print-loop:error-color
-             ,orange)
+             ,red)
             (drracket:real-eval-print-loop:out-color
              ,violet)
             (drracket:real-eval-print-loop:value-color
@@ -65,7 +65,7 @@
             (framework:syntax-color:scheme:constant
              ,cyan)
             (framework:syntax-color:scheme:error
-             ,orange)
+             ,red)
             (framework:syntax-color:scheme:hash-colon-keyword
              ,yellow)
             (framework:syntax-color:scheme:keyword
@@ -73,13 +73,13 @@
             (framework:syntax-color:scheme:string
              ,cyan)
             (framework:syntax-color:scheme:other
-             ,base1)
+             ,orange)
             (framework:syntax-color:scheme:parenthesis
-             ,red)
+             ,base1)
             (framework:syntax-color:scheme:symbol
              ,base00)
             (drracket:real-eval-print-loop:error-color
-             ,orange)
+             ,red)
             (drracket:real-eval-print-loop:out-color
              ,violet)
             (drracket:real-eval-print-loop:value-color
