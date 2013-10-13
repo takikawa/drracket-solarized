@@ -1,5 +1,9 @@
 #lang info
 
+;; pkg metadata
+(define deps '("base"))
+
+;; color scheme
 (define base03  #(  0  43  54))
 (define base02  #(  7  54  66))
 (define base01  #( 88 110 117))
