@@ -1,6 +1,8 @@
 Solarized Colorscheme for DrRacket
 ==================================
 
+![Screenshot](screenshot.png)
+
 This package adds a Solarized colorscheme to DrRacket, the IDE
 of the [Racket programming language](http://www.racket-lang.org).
 
