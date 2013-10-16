@@ -49,11 +49,11 @@
              ,base01)
             (framework:syntax-color:scheme:symbol
              ,base00)
-            (drracket:real-eval-print-loop:error-color
+            (drracket:read-eval-print-loop:error-color
              ,red)
-            (drracket:real-eval-print-loop:out-color
+            (drracket:read-eval-print-loop:out-color
              ,violet)
-            (drracket:real-eval-print-loop:value-color
+            (drracket:read-eval-print-loop:value-color
              ,blue)
             (drracket:check-syntax:both-obligation-style-pref
              ,green)
@@ -101,11 +101,11 @@
              ,base1)
             (framework:syntax-color:scheme:symbol
              ,base00)
-            (drracket:real-eval-print-loop:error-color
+            (drracket:read-eval-print-loop:error-color
              ,red)
-            (drracket:real-eval-print-loop:out-color
+            (drracket:read-eval-print-loop:out-color
              ,violet)
-            (drracket:real-eval-print-loop:value-color
+            (drracket:read-eval-print-loop:value-color
              ,blue)
             (drracket:check-syntax:both-obligation-style-pref
              ,green)
