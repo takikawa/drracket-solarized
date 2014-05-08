@@ -10,9 +10,8 @@ See the [Solarized homepage](http://ethanschoonover.com/solarized) for
 screenshots, details and colorscheme versions for Vim, Mutt, popular terminal
 emulators and other applications.
 
-Note: colorschemes are only supported on Racket 6 pre-release
-versions. Current pre-release snapshots can be downloaded
-[here](http://www.cs.utah.edu/plt/snapshots/).
+Note: colorschemes are only supported on [Racket 6.0](http://download.racket-lang.org/racket-v6.0.html)
+and newer versions.
 
 Installation
 ------------
@@ -24,9 +23,6 @@ From the package catalog:
 Directly from github:
 
   * `raco pkg install git://github.com/takikawa/drracket-solarized`
-
-Note that this will only install correctly in the pre-release version
-of Racket.
 
 License
 -------
